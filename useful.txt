@@ -1,2 +1,5 @@
 For pathing issues that arised when attemping to generate wave-simulation:
 https://forums.intel.com/s/question/0D50P00003yyGTISA2/error-when-using-university-program-vwf?language=en_US
+
+For testing ARM code (.s files):
+https://cpulator.01xz.net/?sys=arm-de1soc
